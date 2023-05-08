@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecommappreactjs.github.io/static/css/main.1f5b858f.css",
+    "main.js": "/ecommappreactjs.github.io/static/js/main.31472b94.js",
+    "static/js/787.988fb20b.chunk.js": "/ecommappreactjs.github.io/static/js/787.988fb20b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/ecommappreactjs.github.io/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/ecommappreactjs.github.io/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/ecommappreactjs.github.io/index.html",
+    "main.1f5b858f.css.map": "/ecommappreactjs.github.io/static/css/main.1f5b858f.css.map",
+    "main.31472b94.js.map": "/ecommappreactjs.github.io/static/js/main.31472b94.js.map",
+    "787.988fb20b.chunk.js.map": "/ecommappreactjs.github.io/static/js/787.988fb20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5b858f.css",
+    "static/js/main.31472b94.js"
+  ]
+}
